@@ -13,6 +13,7 @@ import java.nio.channels.SocketChannel;
  */
 public class HttpClient {
 
+
     private static byte[] request = null;
 
     static {
